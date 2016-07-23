@@ -4,7 +4,7 @@
   "metadata": {
     "name": "nodejs-example",
     "annotations": {
-      "description": "An example Node.js application with no database :)",
+      "description": "An example Node.js application with no database",
       "tags": "quickstart,nodejs",
       "iconClass": "icon-nodejs"
     }
